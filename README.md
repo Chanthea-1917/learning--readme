@@ -1,7 +1,5 @@
 # Project name
 My project do on web app
-## heading 2
-Healthy food app
 ### set up / installation
 `npm install`
 
@@ -21,3 +19,18 @@ Healthy food app
 
 ### Link
 CSS Framework[Tailwindcss](https://tailwindcss.com/)
+
+---
+### List
+Unorder List
+- One
+- Two
+- Three
+  - other sub list
+  - one more
+---
+Order List
+1. One
+2. Two 
+3. Three
+    
