@@ -33,4 +33,18 @@ Order List
 1. One
 2. Two 
 3. Three
-    
+---
+### Text style
+**Bold text**
+
+*hello word* 
+
+~~Delete text~~
+---
+### Block quote
+> Hello world 
+
+### Table
+|id | name | Age |
+|---|------|-----|
+|01 | c.r  |38   |
